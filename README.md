@@ -56,6 +56,11 @@ pip install pandas numpy
 - `price_lookup_table.csv`：存放歷史平均單價數據
 - `test.csv`：訓練數據集，提供 Target Encoding 參考值
 
-## 6. 版權與許可
+## 6. 直接在 Google Colab 執行  
+點擊下方連結，在 Google Colab 中運行 Notebook：  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP7jo9xLGEq1XrKEAo4Jw9ADn2L0-yN7?usp=sharing)
+
+## 7. 版權與許可
 
 本專案僅供學術研究與個人使用，未經授權請勿用於商業用途。
